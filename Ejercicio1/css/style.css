@@ -1,0 +1,23 @@
+body{
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../img/Abstract-Blue-Wave-Splash-Illustration-AI-Generated-4K-Wallpaper.jpg");
+    background-repeat: no-repeat;
+}
+.latin{
+    position: absolute;
+    top: 20%;
+    left: 73%;
+    transform: translate(-50%, -50%);
+    width: 90%;
+}
+.container{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 40%;
+}
