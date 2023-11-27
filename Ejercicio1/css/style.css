@@ -21,3 +21,61 @@ body{
     transform: translate(-50%, -50%);
     width: 40%;
 }
+.sub{
+    position: absolute;
+    top: 75%;
+    left: 67%;
+    transform: translate(-50%, -50%);
+    width: 60%;
+}
+.btn-facebook {
+    background: #3B5998;
+    border-radius: 0;
+    color: #fff;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #2505b2;
+    border-radius: 8%;
+    justify-content: center;
+}
+.btn-facebook:link, .btn-facebook:visited {
+    color: #fff;
+}
+.btn-facebook:active, .btn-facebook:hover {
+    background: #263961;
+    color: #fff;
+}
+.btn-twitter {
+    background: #3ec4e5;
+    border-radius: 0;
+    color: #fff;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(14, 115, 125);
+    border-radius: 8%;
+    justify-content: center; 
+}
+.btn-twitter:link, .btn-twitter:visited {
+    color: #fff;
+}
+.btn-twitter:active, .btn-twitter:hover {
+    background: rgb(88, 208, 241);
+    color: #fff;
+}
+.btn-google {
+    background: #d22626;
+    border-radius: 0;
+    color: #fff;
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(243, 30, 30);
+    border-radius: 8%;
+    justify-content: center; 
+}
+.btn-google:link, .btn-google:visited {
+    color: #fff;
+}
+.btn-google:active, .btn-google:hover {
+    background: rgb(241, 88, 88);
+    color: #fff;
+}
