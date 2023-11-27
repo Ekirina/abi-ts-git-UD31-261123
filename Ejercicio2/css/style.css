@@ -1,0 +1,57 @@
+body{
+    height: 100vh;
+    width: 100vw;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    position: absolute;
+    top: 50%;
+    left: 65%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+}
+h3{
+    position: absolute;
+    text-align: center;
+    top: -20%;
+    left: 30%;
+    color: rgb(61, 110, 199);
+}
+.btn{
+    position: absolute;
+    text-align: center;
+    top: 110%;
+    left: 30%;
+}
+#iconuser1{
+    position: absolute;
+    text-align: center;
+    top: 1%;
+    left: -2%;
+}
+#iconuser2{
+    position: absolute;
+    text-align: center;
+    top: 10%;
+    left: -2%;
+}
+#iconemail{
+    position: absolute;
+    text-align: center;
+    top: 20%;
+    left: -2%;
+}
+#iconphone{
+    position: absolute;
+    text-align: center;
+    top: 30%;
+    left: -2%;
+}
+#iconmessage{
+    position: absolute;
+    text-align: center;
+    top: 40%;
+    left: -2%;
+}
